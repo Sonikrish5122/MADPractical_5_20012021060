@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MADMADpractical4_20012021035" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MADPractical-3_20012021060" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MADPractical2_20012021060" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MADPractical3_20012011013" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-affirmations-app-solution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-amphibians-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-cupcake-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-inventory-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-lunch-tray-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-mars-photos-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-sql-basics-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-tip-calculator-app-solution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-unscramble-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-basics-kotlin-words-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-workmanager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basic-android-kotlin-compose-training-affirmations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basic-android-kotlin-compose-training-woof" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basic-android-kotlin-training-sports" vcs="Git" />
+  </component>
+</project>
